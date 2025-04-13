@@ -1,0 +1,2 @@
+# GetTrustedInstaller
+一个获取turstedinstaller权限的demo
