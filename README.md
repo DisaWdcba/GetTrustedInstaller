@@ -51,15 +51,6 @@ CreateServiceW(hSCManager, L"MyService", L"My Service",
                L"C:\\path\\to\\binary.exe", NULL, NULL, NULL, NULL, NULL);
 ```
 
-## 📦 Repository Contents
-
-```
-/TokenImpersonation     # Method 1: Token stealing implementation
-/ScheduledTask          # Method 2: Task scheduler approach 
-/ServiceControlManager  # Method 3: Service-based escalation
-/docs                   # Technical deep dives
-```
-
 
 ## 📚 Further Reading
 
